@@ -133,28 +133,24 @@
 ## 📸 Project Screenshots
 
 ### 🔍 Q-2: Students Enrolled After 2022
-![Students Enrolled After 2022](screenshots/01_students_after_2022.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 184434" src="https://github.com/user-attachments/assets/3bd18cf5-42be-4797-b0b1-c5903418ea38" />
+
 
 ### 📚 Q-3: Mathematics Department Courses
-![Mathematics Department Courses](screenshots/02_mathematics_courses.png)
+<img width="1075" height="713" alt="Screenshot 2026-09-16 184447" src="https://github.com/user-attachments/assets/48ab401d-e279-43c0-b1ce-356f3a243131" />
+
 
 ### 📊 Q-4: Students Count in Each Course
-![Students Count in Each Course](screenshots/03_course_student_count.png)
+<img width="1078" height="718" alt="Screenshot 2026-09-16 184500" src="https://github.com/user-attachments/assets/1cf8a6a9-989a-4f02-9c77-dfd8f008b1d1" />
+
 
 ### 👨‍🎓 Q-5: Students Enrolled in Both Courses
-![Students Enrolled in Both Courses](screenshots/04_both_courses.png)
+<img width="1079" height="712" alt="Screenshot 2026-09-16 184513" src="https://github.com/user-attachments/assets/4780012d-1ff4-4c96-b70f-4a63b52b05fb" />
+
 
 ### 🔗 Q-6: Students Enrolled in SQL or Data Structures
-![Students Enrolled in SQL or Data Structures](screenshots/05_sql_or_data_structures.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 184527" src="https://github.com/user-attachments/assets/5b9e0634-dcb7-4c58-86b1-db741d6b771b" />
 
----
-
-## 🎥 Project Video
-
-▶️ **Watch the Project Demo:**  
-[🎬 Click Here to Watch the Video](https://youtu.be/your-video-id)
-
-> 🔄 Replace `your-video-id` with your actual YouTube video ID.
 
 ---
 
@@ -211,9 +207,8 @@
 
 ## 👨‍💻 Author
 
-### **Swayam Vekariya**
+### **Vraj Jetani**
 
-💻 BCA Graduate  
 🗄️ SQL & Database Learner  
 🐍 Python Learner  
 🚀 Building projects for GitHub portfolio
