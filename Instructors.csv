@@ -1,0 +1,5 @@
+InstructorID,FirstName,LastName,Email,DepartmentID,Salary
+1,Alice,Johnson,alice.johnson@univ.com,1,60000.00
+2,Bob,Lee,bob.lee@univ.com,2,55000.00
+3,Robert,Smith,robert.smith@univ.com,1,75000.00
+4,Sarah,Davis,sarah.davis@univ.com,2,65000.00
